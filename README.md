@@ -1,0 +1,1 @@
+This is one of the five certification projects that I did while completing freeCodeCamp's HTML and CSS course.
